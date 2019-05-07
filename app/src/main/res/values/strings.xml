@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRead</string>
+    <string name="req_perm">Request Permission</string>
+    <string name="qr_code_says">The QR Code says: </string>
+</resources>
